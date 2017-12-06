@@ -1,0 +1,16 @@
+{
+  "name": "Converter_CSV_to_JSON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.0.0",
+    "csvtojson": "^1.1.9"
+  }
+}
